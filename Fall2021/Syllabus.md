@@ -11,8 +11,7 @@ Introduction to basic analysis and data structure techniques for efficiently rep
 
 | Part        | Percentage  |
 | :-------------|:-----:|
-| HomeWorks     | 10%|
-| Quizzes       | 10%|
+| HomeWorks & Quizzes     | 20%|
 | 1st Midterm 28/11/2021 | 20%|
 | 2nd Midterm 9/1/2022 | 20%|
 | Final 22/01/2022 8am-10am   | 40%|
@@ -21,20 +20,20 @@ Introduction to basic analysis and data structure techniques for efficiently rep
 ## Book
 * *Data Structures and Algorithms in C++*, Adam Drozdek
 #### Extra resources
+* *Introduction to Algorithms*, CLRS
 * https://www.youtube.com/c/Trevtutor
 * https://www.youtube.com/c/DrTreforBazett
 
 ## Tentative Plan 
 | Sections        | Topic  | Weeks | Notes
 |:-------------:|:-----|:----:|:----:|
-| 1.1, 1.3-1.8 | Logic & Proofs| 2| |
-| 2.1-2.4 | Basic Structures | 2 | | 
-|5.1-5.3 | Induction & Recursion | 2|  |
-|6.1-6.5 | Counting | 2| | 
-|8.5-8.6 | Advanced Counting techniques | 1| |
-|9.1-9.6 | Relations | 2| |
-|10.1-10.4 | Graphs  | 2| |
-|11.1 | Trees | 1 | |
+| 2 | Complexity Analysis| 2| |
+| 3 & 4 | Lists, Stacks, & Queues | 2 | | 
+|5 | Recursion & proof by induction | 2|  |
+| 9 | Sorting | 2| | 
+| 6 & 7 | Trees, Heaps, & Tries  | 1| |
+| 8 | Graphs | 2| |
+| 10 | Hashing  | 1| |
 
 ## Policy
 - Attendance is **mandatory** and will affect your grade.  
