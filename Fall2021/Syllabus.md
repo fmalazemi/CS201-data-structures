@@ -41,6 +41,7 @@ Introduction to basic analysis and data structure techniques for efficiently rep
 - Assignments:
   - **One-day late**, receive *%50* of your total grade. 
   - **Two or more days late**, receive *zero* grade. 
+  - You may skip upto one assignment
 - It is your responsibility to write in a clear way. *If I can't read ...  I can't grade*.
 
 ## How to Succeed in CS111
