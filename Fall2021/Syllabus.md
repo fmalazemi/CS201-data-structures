@@ -1,9 +1,9 @@
-# Welcome to the CS201-data-structures wiki!
+# Welcome to the CS201 Data Structures and Algorithms
 
-## Objective
-Build the necessary mathematical foundation for your computer science career.
+## CS201 Objective
+Introduction to basic analysis and data-structure techniques for efficiently representing infor-mation in a computing system along with their use in fundamental algorithms.
 ## Prerequisites: 
-*None*
+*CS-111* and *CS-142
 
 
 ## Important Dates and Grade Distribution:
