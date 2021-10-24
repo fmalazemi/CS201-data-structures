@@ -1,6 +1,6 @@
 # Welcome to the CS-201 Data Structures and Algorithms
 
-## CS-201 Objective
+## Course Objective
 Introduction to basic analysis and data structure techniques for efficiently representing information in a computing system along with their use in fundamental algorithms.
 
 ## Prerequisites: 
