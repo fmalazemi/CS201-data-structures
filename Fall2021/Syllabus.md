@@ -4,7 +4,8 @@
 Introduction to basic analysis and data structure techniques for efficiently representing information in a computing system along with their use in fundamental algorithms.
 
 ## Prerequisites: 
-*CS-111* and *CS-142*
+* *CS-111* 
+* *CS-142*
 
 
 ## Important Dates and Grade Distribution:
