@@ -26,15 +26,15 @@ Introduction to basic analysis and data structure techniques for efficiently rep
 * https://www.youtube.com/c/DrTreforBazett
 
 ## Tentative outline 
-| Sections        | Topic  | Weeks | Notes
-|:-------------:|:-----|:----:|:----:|
-| 2 | Complexity Analysis| 2| |
-| 3 & 4 | Lists, Stacks, & Queues | 2 | | 
-|5 | Recursion & proof by induction | 2|  |
-| 9 | Sorting | 2| | 
-| 6 & 7 | Trees, Heaps, & Tries  | 1| |
-| 8 | Graphs | 2| |
-| 10 | Hashing  | 1| |
+| Sections        | Topic  | Weeks |
+|:-------------:|:-----|:----:|
+| 2 | Complexity Analysis| 2| 
+| 3 & 4 | Lists, Stacks, & Queues | 2 |
+|5 | Recursion & proof by induction | 2| 
+| 9 | Sorting | 2| 
+| 6 & 7 | Trees, Heaps, & Tries  | 1|
+| 8 | Graphs | 2| 
+| 10 | Hashing  | 1| 
 
 ## Policy
 - Attendance is **mandatory** and will affect your grade.  
