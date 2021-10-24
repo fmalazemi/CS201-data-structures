@@ -20,7 +20,7 @@ Introduction to basic analysis and data structure techniques for efficiently rep
 ## Book
 * *Data Structures and Algorithms in C++*, Adam Drozdek
 #### Extra resources
-* *Introduction to Algorithms*, CLRS
+* [*Introduction to Algorithms*, CLRS](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
 * https://www.youtube.com/c/Trevtutor
 * https://www.youtube.com/c/DrTreforBazett
 
