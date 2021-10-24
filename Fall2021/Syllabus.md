@@ -1,12 +1,11 @@
-# Welcome to the CS-201 Data Structures and Algorithms
+# Welcome to the CS-201 Data Structures and Algorithms, Fall2021
 
 ## Course Objective
 Introduction to basic analysis and data structure techniques for efficiently representing information in a computing system along with their use in fundamental algorithms.
 
 ## Prerequisites: 
-* CS-111 *Discrete Math*
-* CS-142 *Introduction to Programming 2*
-
+* CS-111 Discrete Math (*Recurrence Relations, proof by induction, counting, summations, sequences, graphs*)
+* CS-142 *Introduction to Programming 2* (*Basic programming, Stacks, Queues, Lists, Arrays*)
 
 ## Important Dates and Grade Distribution:
 
@@ -37,12 +36,12 @@ Introduction to basic analysis and data structure techniques for efficiently rep
 | 10 | Hashing  | 1| 
 
 ## Policy
-- Attendance is **mandatory** and will affect your grade.  
+- Attendance is **MANDATORY** and will affect your grade.  
 - Not all the details are covered in class. It is **your job to understand** all the details from the book. 
 - Assignments:
-  - **One-day late**, receive *%50* of your total grade. 
+  - **One-day late**, receives only *%50* of this assignment grade. 
   - **Two or more days late**, receive *zero* grade. 
-  - The lowest
+  - The lowest homework score will be dropped from your total grade.  
 - It is your responsibility to write in a clear way. *If I can't read ...  I can't grade*.
 
 ## How to Succeed in CS-201
