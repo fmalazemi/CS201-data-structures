@@ -23,7 +23,7 @@ Introduction to basic analysis and data structure techniques for efficiently rep
 #### Extra resources
 * [*Introduction to Algorithms*, CLRS](https://en.wikipedia.org/wiki/Introduction_to_Algorithms)
 * [Introduction to Data Structures and Algorithms by Richard Buckland](https://youtu.be/RpRRUQFbePU)
-* [MIT, Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/)
+* [MIT 6-006S20, Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/)
 
 ## Tentative outline 
 | Sections        | Topic  | Weeks |
