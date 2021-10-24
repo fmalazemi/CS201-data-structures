@@ -4,8 +4,8 @@
 Introduction to basic analysis and data structure techniques for efficiently representing information in a computing system along with their use in fundamental algorithms.
 
 ## Prerequisites: 
-* *CS-111* Discrete Math
-* *CS-142* Introduction to Programming 2
+* CS-111 *Discrete Math*
+* CS-142 *Introduction to Programming 2*
 
 
 ## Important Dates and Grade Distribution:
@@ -25,7 +25,7 @@ Introduction to basic analysis and data structure techniques for efficiently rep
 * https://www.youtube.com/c/Trevtutor
 * https://www.youtube.com/c/DrTreforBazett
 
-## Tentative Plan 
+## Tentative outline 
 | Sections        | Topic  | Weeks | Notes
 |:-------------:|:-----|:----:|:----:|
 | 2 | Complexity Analysis| 2| |
@@ -45,13 +45,13 @@ Introduction to basic analysis and data structure techniques for efficiently rep
   - You may skip upto one assignment
 - It is your responsibility to write in a clear way. *If I can't read ...  I can't grade*.
 
-## How to Succeed in CS111
-* Do the assignments by yourself and to the best of your ability. 
+## How to Succeed in CS-201
+* Do the assignments by **YOURSELF** and to the best of your ability. 
 * Start working on assignments once they are posted. **NOT** *24hrs* before the deadline. 
 * Don't be afraid to ask questions. 
-* If you have difficulties understanding the material **Talk** to me or the TA . 
-* Solve book problems. **Solve book problems.** *Solve book problems.*
-* Read The Book. **Read The Book.** *Read The Book.*
+* If you have difficulties understanding the material **TALK** to me or the TA. 
+* Solve book problems. **SOLVE BOOK PROBLEMS**. *Solve book problems.*
+* Read The Book. **READ THE BOOK**. *Read The Book.*
 
 
 
