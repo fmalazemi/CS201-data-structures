@@ -1,19 +1,19 @@
-# Welcome to CS201 Data Structures & Algorithms, Fall 2021
+## Welcome to CS201 Data Structures & Algorithms, Fall 2021
 - [Syllabus](https://github.com/fmalazemi/CS201-data-structures/blob/main/Fall2021/Syllabus.md)
 
-## Announcements
+### Announcements
 
 
-## Course Syllabus
+### Course Syllabus
 
 
-## Homeworks
+### Homeworks
 
 
-## Class Notes
+### Class Notes
 
 
-## Additional References
+### Additional References
 
 
 
