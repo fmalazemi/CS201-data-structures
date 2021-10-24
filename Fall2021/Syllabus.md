@@ -1,7 +1,8 @@
 # Welcome to the CS201 Data Structures and Algorithms
 
 ## CS201 Objective
-Introduction to basic analysis and data-structure techniques for efficiently representing infor-mation in a computing system along with their use in fundamental algorithms.
+Introduction to basic analysis and data structure techniques for efficiently representing information in a computing system along with their use in fundamental algorithms.
+
 ## Prerequisites: 
 *CS-111* and *CS-142
 
@@ -12,13 +13,13 @@ Introduction to basic analysis and data-structure techniques for efficiently rep
 | :-------------|:-----:|
 | HomeWorks     | 10%|
 | Quizzes       | 10%|
-| 1st Midterm  | 20%|
-| 2nd Midterm  | 20%|
+| 1st Midterm 28/11/2021 | 20%|
+| 2nd Midterm 9/1/2022 | 20%|
 | Final 22/01/2022 8am-10am   | 40%|
 | Bonusses | 5%|
 
 ## Book
-* Discrete Mathematics and its Applications, Kenneth H. Rosen, Latest edition
+* *Data Structures and Algorithms in C++*, Adam Drozdek
 #### Extra resources
 * https://www.youtube.com/c/Trevtutor
 * https://www.youtube.com/c/DrTreforBazett
