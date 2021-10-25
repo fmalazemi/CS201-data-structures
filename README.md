@@ -10,7 +10,7 @@
   - O.H.: TBA
 ## Announcements
 - Welcome back to on-campus lectures :tada:
-- [**Syllabus**](https://github.com/fmalazemi/CS201-data-structures/blob/main/Fall2021/Syllabus.md) is out. Make sure you skim it at least once. 
+- [Syllabus is out. Make sure you skim it at least once.](https://github.com/fmalazemi/CS201-data-structures/blob/main/Fall2021/Syllabus.md)
 
 ## Homeworks
 
