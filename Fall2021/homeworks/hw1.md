@@ -1,7 +1,7 @@
 # Homework 1 (Due xx/xx/xx)
 
 ### Objective
-- Warmup and introduction to *time complexity*. 
+- Warmup, *time complexity*, and *Asymptotic Notation*. 
 
 
 ## Problem 1 (25pts)
@@ -54,3 +54,69 @@ output:
 Explanation:
   The largest triangle is formed from the points [1, -10],  [9, -7], [2, 3] or the points [0, 1], [9, -7], [2, 3].
  ```
+ 
+ 
+ ## Problem 6 (10pts)
+ Find the time complexity in Big-O notation of the C++ function.
+ ```c++
+ int SimpleFunction(){
+    cout<<"Hello World"<<endl;
+    return 0; 
+ }
+ ```
+ 
+ 
+ ## Problem 7 (10pts)
+ Find the time complexity in Big-O notation of the C++ function.
+ ```c++
+ void function1(n, m){
+    for(int i = 0; i < 100; i++){
+        for(int j = i; j < n*m; j++){
+          int p = i*j;
+          cout<<p<<endl;
+        }
+    }
+}
+ ```
+
+ ## Problem 8 (10pts)
+ Find the time complexity in Big-O notation of the C++ function.
+ ```c++
+ int traingularNum(int n){
+     int sum = 0; 
+     for(int i = 0; i < n; i++){
+        sum += i ; 
+     }
+     return sum;
+ }
+ void function1(n){
+    int i = 1;
+    while (i < n){
+        cout<<traingularNum(i)<<endl;
+        i = i*2 ;
+    }
+}
+ ```
+  ## Problem 9 (10pts)
+ Find the time complexity in Big-O notation of the C++ function.
+ ```c++
+ int traingularNum(int n){
+     int sum = 0; 
+     for(int i = 0; i < n; i++){
+        sum += i ; 
+     }
+     return sum;
+ }
+ void function1(n){
+    int i = 1;
+    while (i < n){
+        cout<<traingularNum(i)<<endl;
+        i = i*2 ;
+    }
+}
+ ```
+ 
+ 
+  
+ 
+ 
