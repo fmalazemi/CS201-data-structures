@@ -2,7 +2,8 @@
 
 ### Objective
 - Warmup, *time complexity*, and *Asymptotic Notation*. 
-
+### Instructions
+- Submit
 
 ## Problem 1 (25pts)
 Let `P` be an array of integers. Write the function `Average(P)` that return the average of the integers in `P`.
